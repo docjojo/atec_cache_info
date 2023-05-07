@@ -1,5 +1,5 @@
-# atec_cache_info
-WordPress Plugin - atec Cache Info &amp; Statistics (OPcache, WP-object-cache, APCu, Memcached, Redis, SQLite-object-cache)
+# atec Cache Info & Statistics - WordPress Plugin
+OPcache, WP-object-cache, APCu, Memcached, Redis, SQLite-object-cache
 
 === atec Cache Info ===
 Contributors: DocJoJo
@@ -38,4 +38,3 @@ This plugin provides basic statistics for PHP cache featues, namely OPcache, WP-
 = 1.0 [2023.04.07] =
 
 * Initial Release
-
