@@ -6,7 +6,7 @@ Contributors: DocJoJo
 Tags: OPcache, WP-object-cache, APCu, Memcached, Redis, SQLite-object-cache
 Requires at least: 4.5
 Requires PHP: 5.6
-Stable tag: 1.1
+Stable tag: 1.1.1
 Tested up to: 6.2
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,10 @@ This plugin provides basic statistics for PHP cache featues, namely OPcache, WP-
 1. Complete statistics
 
 == Upgrade Notice ==
+
+= 1.1.1 [2023.05.09] =
+
+* Changes requested by wordpress.org in review process
 
 = 1.1 [2023.05.06] =
 
